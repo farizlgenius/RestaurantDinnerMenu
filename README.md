@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 16 Pro - 2024-10-30 at 00 09 23](https://github.com/user-attachments/assets/f29ab716-3b2c-45c1-bd8d-f655d33a60b4)# RestaurantDinnerMenu
+# RestaurantDinnerMenu
 
 ## Project Description
 Restaurant Dinner Menu Application is a project that i want to practice some swift amd swiftUI technique ,this application showing foods and drink in the grid view and support for filter with categories of the food and after tap to the food you can see ingredient of food in another View  
